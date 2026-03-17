@@ -23,7 +23,7 @@ Here is simple wiring circuit I created, when wiring this:
 ![Wiring.png](Wiring.png)
 
 # BOM
-![Wiring.png](Images/BMO.png)
+
 
 
 
