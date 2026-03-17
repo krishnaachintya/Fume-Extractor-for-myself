@@ -31,3 +31,4 @@ Here is simple wiring circuit I created, when wiring this:
 | 6 | Power supply (12V)     | 1   | 2.82             | 2.82            |
 | 7 | Power plug             | 1   | 1.50             | 1.50            |
 | 8 | LED strip (10 cm)      | 1   | 2.82             | 2.82            |
+| 9 | TOTAL                  |     |                  | 30.40           |
